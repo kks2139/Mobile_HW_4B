@@ -1,1 +1,1 @@
-# Mobile_HW_4B
+# Maze game for Android
