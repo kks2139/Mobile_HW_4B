@@ -2,6 +2,6 @@
 This is a simple maze game
 
 # Rule
-- map is generated ramdomly
-- you can move your character by touching
-- if the character collide, game will be reset
+- Map is generated ramdomly
+- You can move your character by touching
+- If the character collide to wall, game will be reset
